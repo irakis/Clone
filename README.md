@@ -1,0 +1,2 @@
+# Clone
+Klonowanie istniejacego repo
